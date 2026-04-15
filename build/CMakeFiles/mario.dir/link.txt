@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/mario.dir/src/main.cpp.o CMakeFiles/mario.dir/src/Entity.cpp.o CMakeFiles/mario.dir/src/Player.cpp.o CMakeFiles/mario.dir/src/Enemy.cpp.o CMakeFiles/mario.dir/src/Tile.cpp.o CMakeFiles/mario.dir/src/Level.cpp.o -o mario  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib/libncurses.tbd
